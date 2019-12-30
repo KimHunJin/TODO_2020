@@ -54,7 +54,8 @@ To Do in 2020
 그래서! 2020년에는 연사자로서 발표를 하고 싶다. 이제 1년 넘긴 주니어지만 주니어니까 가능한 발표들이 있을거닷!
 
 ### 5. 너가 하는게 뭔데?
-:green_book: 도메인에 대한 지식을 습득하자. 내가 하는 분야의 도메인을 1년만에 드디어 알게 됐다. 여지껏 뭐라 설명해야 할 지 몰라 ERP비슷한거 만든다고 했는데... 정확히 현재 나의 도메인은 HCM (Human Capability Management)로 ERP중 한 분야이긴 하다. 이 HCM에 대한 도메인 지식을 거름삼아 무럭무럭 성장해야지
+:green_book: 도메인에 대한 지식을 습득하자. 내가 하는 분야의 도메인을 1년만에 드디어 알게 됐다. 여지껏 뭐라 설명해야 할 지 몰라 ERP비슷한거 만든다고 했는데... 정확히 현재 나의 도메인은 HCM (Human Capital Management)로 ERP중 한 분야이긴 하다. 이 HCM에 대한 도메인 지식을 거름삼아 무럭무럭 성장해야지
+https://www.oracle.com/kr/applications/human-capital-management/what-is-hcm.html
 
 ## :gem: 2020년의 계획
 ```
